@@ -1,2 +1,4 @@
 .venv
 .idea
+mobile_app/.idea
+mobile_app/kivy_venv

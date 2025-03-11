@@ -2,8 +2,8 @@ import os
 # from moviepy.editor import VideoFileClip
 from moviepy.video.io.VideoFileClip import VideoFileClip
 
-video_dir = r"D:\Diploma\data\MC-EIU"
-audio_dir = r"D:\Diploma\data\MC-EIU-audio"
+video_dir = r"C:\Users\Khrystyna\Downloads\MC-EIU%20-%20English.part2\Videos"
+audio_dir = r"D:\Diploma\data\MC-EIU-audio-1"
 
 os.makedirs(audio_dir, exist_ok=True)
 
